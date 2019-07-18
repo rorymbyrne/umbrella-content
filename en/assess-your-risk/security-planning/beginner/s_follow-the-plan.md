@@ -4,7 +4,7 @@ title: Follow the Plan
 ---
 ### A security plan only works if everyone follows it.
 
-Different personalities may benefit from different approaches to make the plan stick.    
+Different personalities may benefit from different approaches to make the plan security plan stick.    
 
 ## Understand why 
 
@@ -45,3 +45,7 @@ Different personalities may benefit from different approaches to make the plan s
 * Do you need more time, money, or help to follow the plan?
 * Does the plan interfere with something else you rely on for work? 
 * Do health, stress, or relationship issues make it hard to follow the plan?
+<!--stackedit_data:
+eyJwcm9wZXJ0aWVzIjoiY2F0ZWdvcmllczogVGVzdGluZyBDb2
+50ZW50XG4iLCJoaXN0b3J5IjpbLTE5MzY0OTk2MDZdfQ==
+-->
