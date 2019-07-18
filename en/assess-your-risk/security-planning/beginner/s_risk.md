@@ -20,7 +20,7 @@ We are all at constant risk of harm or loss from threatening events. But many ri
 
 Many people accept risk if: 
 
-* The probability of a threatening event is low (being struck by a meteorite from space);
+* The probability of a threatening event is low (being struck by a meteorite from outer space);
 * The impact is low (getting a paper cut); 
 * The benefits outweigh the costs (driving even though you may be in an accident);
 * There are manageable, affordable ways to control and reduce risk (taking advanced driving classes, or wearing a seatbelt). 
@@ -54,5 +54,5 @@ Rank the impact very high, high, medium, low, or very low.
 
 You may choose to limit all activities that come with a high probability of serious physical harm. You can also use the assessment to allocate resources to your highest security priority.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjQ2MjIzMl19
+eyJoaXN0b3J5IjpbMTE5MTE0NDI0M119
 -->
