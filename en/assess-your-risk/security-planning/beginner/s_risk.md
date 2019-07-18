@@ -4,7 +4,7 @@ title: Risk
 ---
 ### Assess your risk to determine your security priorities. 
 
-Risk is the probability that you will suffer harm or loss. Risk varies depending on the threat, but also how vulnerable you are, and what your capacities are.
+Risk is the probability that you will suffer from harm or loss. Risk varies depending on the threat, but also how vulnerable you are, and what your capacities are.
 
 To control risk:
 
@@ -53,3 +53,6 @@ Rank the impact very high, high, medium, low, or very low.
   * Who decides when exposure to threats is still necessary, despite the risk? How will they decide, and who will they tell?   
 
 You may choose to limit all activities that come with a high probability of serious physical harm. You can also use the assessment to allocate resources to your highest security priority.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA5MjQ2MjIzMl19
+-->
