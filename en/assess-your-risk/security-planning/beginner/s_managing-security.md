@@ -6,9 +6,9 @@ title: Managing security
 
 Advice is rarely applicable to everyone. Different people may require different strategies depending on the time and place. The challenge is to identify the things in your environment that may result in harm or loss at any given moment. 
 
-Follow these fol steps to manage your security. 
+Follow these following steps to manage your security. 
 
-## 1. Understand threats and vulnerabilities in your context
+## 1. Understand threats and vulnerabilities in your specific context
 
 The kind of people (stakeholders) and events that may cause harm or loss (threats) depend on where you are (your context). Some things about you or your context may make you more vulnerable to certain threats.   
 
@@ -30,5 +30,5 @@ For every threat, describe several measures you can take to:
 
 Make sure everyone on your team understands the security plan and when to act on it. Review your plans at least twice a year, more often if something changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzY5NjI1MV19
+eyJoaXN0b3J5IjpbNzc5NDMxMDQ3XX0=
 -->
