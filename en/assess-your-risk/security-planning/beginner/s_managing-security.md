@@ -2,7 +2,7 @@
 index: 2
 title: Managing security
 ---
-### Make and follow a security plan based on your own context and risk. 
+### Make and follow a security plan based upon your own context and risk. 
 
 Advice is rarely applicable to everyone. Different people may require different strategies depending on the time and place. The challenge is to identify the things in your environment that may result in harm or loss at any given moment. 
 
@@ -30,5 +30,5 @@ For every threat, describe several measures you can take to:
 
 Make sure everyone on your team understands the security plan and when to act on it. Review your plans at least twice a year, more often if something changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NDMxMDQ3XX0=
+eyJoaXN0b3J5IjpbMTM4NDI3MzE4Nl19
 -->
